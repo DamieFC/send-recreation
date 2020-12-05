@@ -109,3 +109,9 @@ The android implementation is contained in the `android` directory, and can be v
 [Mozilla Public License Version 2.0](LICENSE)
 
 ---
+---
+## Why I forked it
+I just found out that this was officially discontinued because of people using this to send %&^%^$^ malware through it :sob: :scream:. I am right now, going to save it.
+### GOALS
+1. Creating a way so if you are caught distributing malware, viruses, etc ***OF ANY KIND***, you will not be allowed to use the service,
+2. I don't have a 2 yet :unamused:
